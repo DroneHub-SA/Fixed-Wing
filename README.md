@@ -1,7 +1,6 @@
 # Fixed-Wing 
 
 [![Overview](https://img.shields.io/badge/Project_Overview-blue)](#project-overview)
-[![Objectives](https://img.shields.io/badge/Objectives-green)](#objectives)
 [![Foam Cutter](https://img.shields.io/badge/Foam_Cutting_Machine-orange)](#foam-cutting-machine)
 [![RC System](https://img.shields.io/badge/RC_Transmitter_&_Receiver-red)](#rc-transmitter--receiver)
 [![Enclosure](https://img.shields.io/badge/Enclosure_Design-purple)](#enclosure-design)
@@ -12,8 +11,6 @@
 [![Team](https://img.shields.io/badge/Team_Members-success)](#team-members)
 
 ## Project Overview
-
-## Objectives
 
 ## Foam Cutting Machine
 
